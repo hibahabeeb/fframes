@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinematic Fframes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <img src="logo.png" alt="Cinematic Fframes Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="                    
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="                                    
+                <li><a href="#about">About</a></li>
+                <li><a href="                          
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home">
+        <h1>Welcome to Cinematic Fframes</h1>
+        <p>Capturing life's precious moments</p>
+    </section>
+
+    <!-- Viral Videos Section -->
+    <section id="viral-videos">
+        <h2>Viral Videos</h2>
+        <div class="video-gallery">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/video1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https:                                                                                                                                                                                                       
+            <!-- Add more videos here -->
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Our Services</h2>
+        <h3>Bride and Groom Package</h3>
+        <ul>
+            <li>Wedding Day: Safe or candid photography</li>
+            <li>Stage photo, Couple photo, Outdoor etc.</li>
+            <li>iPhone videography</li>
+            <li>Wedding Highlight video</li>
+            <li>Entry video</li>
+            <li>Couple video</li>
+        </ul>
+        <p>Total: 14k</p>
+        <h3>Other Events</h3>
+        <ul>
+            <li>Save the date</li>
+            <li>Haldi</li>
+            <li>Arikuth</li>
+            <li>Mehndi Night</li>
+            <li>Arabic Night</li>
+            <li>Safe or candid videography + album + full video</li>
+        </ul>
+        <p>Thank you for choosing our photography!</p>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <div class="gallery">
+            <img src="image1.jpg" alt="Image 1">
+            <img src="image2.jpg" alt="Image 2">
+            <!-- Add more images here -->
